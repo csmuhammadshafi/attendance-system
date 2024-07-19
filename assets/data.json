@@ -1,0 +1,402 @@
+[
+ {
+  "Roll No.": 1,
+  "Registration": "2019-23-Registration-01",
+  "Name": "Asif Khan",
+  "Father Name": "Ghazan Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 2,
+  "Registration": "2019-23-Registration-02",
+  "Name": "Abdul Basit",
+  "Father Name": "Muhammad Jamil",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 3,
+  "Registration": "2019-23-Registration-03",
+  "Name": "Abdur Rahman",
+  "Father Name": "Israr U Din",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 4,
+  "Registration": "2019-23-Registration-04",
+  "Name": "Muhammad sawal",
+  "Father Name": "Sohail Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 5,
+  "Registration": "2019-23-Registration-05",
+  "Name": "Numan",
+  "Father Name": "Abdullah",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 6,
+  "Registration": "2019-23-Registration-06",
+  "Name": "Muhammad Subhan",
+  "Father Name": "Jan Gul",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 7,
+  "Registration": "2019-23-Registration-07",
+  "Name": "Ubaid Ullah",
+  "Father Name": "Abbas Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 8,
+  "Registration": "2019-23-Registration-08",
+  "Name": "Zulqarnain",
+  "Father Name": "Amin Gul",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 9,
+  "Registration": "2019-23-Registration-09",
+  "Name": "Sudais Ahmad",
+  "Father Name": "Gohar Ali",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 10,
+  "Registration": "2019-23-Registration-10",
+  "Name": "Sareer Khan",
+  "Father Name": "Mir Alam",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 11,
+  "Registration": "2019-23-Registration-11",
+  "Name": "Muhammad Luqman",
+  "Father Name": "Alam Zeb",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 12,
+  "Registration": "2019-23-Registration-12",
+  "Name": "Muhammad Zeb Khan",
+  "Father Name": "Yousaf Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 13,
+  "Registration": "2019-23-Registration-13",
+  "Name": "Muhammad Afaq",
+  "Father Name": "Waqar Muhammad",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 14,
+  "Registration": "2019-23-Registration-14",
+  "Name": "Hassan Ahmad",
+  "Father Name": "Fazal Wahab",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 15,
+  "Registration": "2019-23-Registration-15",
+  "Name": "Said Jamal",
+  "Father Name": "Noor Ahmad",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 16,
+  "Registration": "2019-23-Registration-16",
+  "Name": "Zulqarnain",
+  "Father Name": "Jan Wali",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 17,
+  "Registration": "2019-23-Registration-17",
+  "Name": "Udais Khan",
+  "Father Name": "Said Ali Sha",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 18,
+  "Registration": "2019-23-Registration-18",
+  "Name": "Sufyan Khan",
+  "Father Name": "Abdul Sattar",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 19,
+  "Registration": "2019-23-Registration-19",
+  "Name": "Ladin Khan",
+  "Father Name": "Riaz Muhammad",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 20,
+  "Registration": "2019-23-Registration-20",
+  "Name": "Abbas Khan",
+  "Father Name": "Bahru Ddin",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 21,
+  "Registration": "2019-23-Registration-21",
+  "Name": "Muhammad Sohail",
+  "Father Name": "Muslim Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 22,
+  "Registration": "2019-23-Registration-22",
+  "Name": "Muhammad Awais",
+  "Father Name": "Javed Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 23,
+  "Registration": "2019-23-Registration-23",
+  "Name": "Maheyar Khan",
+  "Father Name": "Muhammad Shoaib",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 24,
+  "Registration": "2019-23-Registration-24",
+  "Name": "Muhammad Tayyab",
+  "Father Name": "Isam Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 25,
+  "Registration": "2019-23-Registration-25",
+  "Name": "Muhammad Asim",
+  "Father Name": "Mukamil Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 26,
+  "Registration": "2019-23-Registration-26",
+  "Name": "Sayed Muhammad Faisal",
+  "Father Name": "Shah Faisal",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 27,
+  "Registration": "2019-23-Registration-27",
+  "Name": "Asmat Ullah",
+  "Father Name": "Muhammad Ayub",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 28,
+  "Registration": "2019-23-Registration-28",
+  "Name": "Rahmanullah",
+  "Father Name": "Naimatullah",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 29,
+  "Registration": "2019-23-Registration-29",
+  "Name": "Aizaz Ur Rahman",
+  "Father Name": "Aziz Ur Rahman",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 30,
+  "Registration": "2019-23-Registration-30",
+  "Name": "Haris Mushtaq",
+  "Father Name": "Mushtaq Ahmad",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 31,
+  "Registration": "2019-23-Registration-31",
+  "Name": "Habiburrahman",
+  "Father Name": "Habib Jan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 32,
+  "Registration": "2019-23-Registration-32",
+  "Name": "Muhammad Tariq",
+  "Father Name": "Sher Wali",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 33,
+  "Registration": "2019-23-Registration-33",
+  "Name": "Qasim Qayum",
+  "Father Name": "Ahmad Qayum",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 34,
+  "Registration": "2019-23-Registration-34",
+  "Name": "Sheraz Irshad",
+  "Father Name": "Irshad",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 35,
+  "Registration": "2019-23-Registration-35",
+  "Name": "Muhammad Haroon",
+  "Father Name": "Iftikhar",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 36,
+  "Registration": "2019-23-Registration-36",
+  "Name": "Uzair Arif",
+  "Father Name": "Muhammad Arif",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 37,
+  "Registration": "2019-23-Registration-37",
+  "Name": "Saad Kumail",
+  "Father Name": "Muhammad Amjid",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 38,
+  "Registration": "2019-23-Registration-38",
+  "Name": "Muhammad Ahmad",
+  "Father Name": "Saif Ul Islam",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 39,
+  "Registration": "2019-23-Registration-39",
+  "Name": "Muhammad Shayan",
+  "Father Name": "Muhammad Ayaz",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 40,
+  "Registration": "2019-23-Registration-40",
+  "Name": "Umair Khan",
+  "Father Name": "Muhammad Ismail Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 41,
+  "Registration": "2019-23-Registration-41",
+  "Name": "Muhammad Sameer",
+  "Father Name": "Saif Ur Rehman",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 42,
+  "Registration": "2019-23-Registration-42",
+  "Name": "Jawad Ahmad",
+  "Father Name": "Gohar Ali",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 43,
+  "Registration": "2019-23-Registration-43",
+  "Name": "Muhammad Ali",
+  "Father Name": "Gohar Ali",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 44,
+  "Registration": "2019-23-Registration-44",
+  "Name": "Mahmood Khan",
+  "Father Name": "Taj Wali",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 45,
+  "Registration": "2019-23-Registration-45",
+  "Name": "Abdullah",
+  "Father Name": "Iftikhar",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 46,
+  "Registration": "2019-23-Registration-46",
+  "Name": "Saqib Khan",
+  "Father Name": "Ihsan Ullah",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 47,
+  "Registration": "2019-23-Registration-47",
+  "Name": "Hassan Zeb Khan",
+  "Father Name": "Noor Zeb Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 48,
+  "Registration": "2019-23-Registration-48",
+  "Name": "Hassan Zeb Khan",
+  "Father Name": "Noor Zeb Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 49,
+  "Registration": "2019-23-Registration-49",
+  "Name": "Wasif Qayyum",
+  "Father Name": "Qayyum Khan",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ },
+ {
+  "Roll No.": 50,
+  "Registration": "2019-23-Registration-50",
+  "Name": "Shabir Khan",
+  "Father Name": "Khan Sher",
+  "Department": "Computer Science",
+  "College": "GPGC Mardan"
+ }
+]
